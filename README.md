@@ -5,3 +5,5 @@
 ![netflix](https://user-images.githubusercontent.com/59713229/97338079-70493780-1857-11eb-9474-8caba3660cca.jpg)
 
 <p>Hello my name is Isaac. I love going to the movies! I dont understand why you would want to minimize the expirience of watching a really good movie at home. going to the movies and watching it on a big screen with popcorn and making it an outting for you and who ever you go with is special. Movies at home are great but it does not compair to the movie theatre.</P>
+
+![cinema](https://user-images.githubusercontent.com/72957102/97339030-725fc600-1858-11eb-86e0-70cdcf0fcd0a.jpg)
